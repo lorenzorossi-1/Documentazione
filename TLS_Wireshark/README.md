@@ -9,3 +9,5 @@ Note sul corso Pluralsight denominato "Analyzing and Decrypting TLS with Wiresha
 - [Visualizing the TLS Key Exchange](VisualizeTLSKeyExchange.md)
 - [Visualizing TLS Encryption](VisualizeTLSEncryption.md)
 - [Decrypting TLS traffic](DecryptingTLSTraffic.md)
+- [Examine TLS 1.2 Handshake in Wireshark](ExamineTLS1-2Handshake.md)
+- [Examine the TLS 1.3 Handshake in Wireshark and Additional Resources](ExamineTLS1-3Handshake-Resources.md)
