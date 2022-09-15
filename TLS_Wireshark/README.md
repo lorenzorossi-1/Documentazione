@@ -8,3 +8,4 @@ Note sul corso Pluralsight denominato "Analyzing and Decrypting TLS with Wiresha
 
 - [Visualizing the TLS Key Exchange](VisualizeTLSKeyExchange.md)
 - [Visualizing TLS Encryption](VisualizeTLSEncryption.md)
+- [Decrypting TLS traffic](DecryptingTLSTraffic.md)
