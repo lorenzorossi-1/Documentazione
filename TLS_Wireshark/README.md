@@ -6,4 +6,4 @@ Note sul corso Pluralsight denominato "Analyzing and Decrypting TLS with Wiresha
 
 ## Note sul corso
 
-- [Exchange Secret Key](ExchangeSecretKey.md)
+- [Visualizing the TLS Key Exchange](VisualizeTLSKeyExchange.md)
