@@ -12,6 +12,7 @@ Documentazione di vari argomenti relativi al campo informatico, scritta prendend
 
 - [Analyzing and Decrypting TLS with Wireshark](TLS_Wireshark)
 - [Github Fundamentals](Git-Github)
+- [Ubuntu Linux Administration: Essential Commands](Ubuntu_Essentials_Commands)
 
 ## Appunti
 
