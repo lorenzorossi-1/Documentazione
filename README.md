@@ -17,3 +17,4 @@ Documentazione di vari argomenti relativi al campo informatico, scritta prendend
 ## Appunti
 
 - [Appunti su Wireshark](Wireshark-Appunti)
+- [Appunti su Linux](Linux-Appunti)
