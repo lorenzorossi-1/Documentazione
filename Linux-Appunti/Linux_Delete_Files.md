@@ -39,7 +39,7 @@ rm -rf dir-quattro_quattro/*
 otterremo lo stesso risultato ma utilizzando una sintassi molto più pericolosa, perché se solo sbagliamo a digitare il comando, in questo modo
 
 ~~~shell
-rm -rf dir-quattro_quattro/*
+rm -rf dir-quattro_quattro/ *
 ~~~
 
 cancelleremo tutte le directory presenti nella directory in cui ci troviamo. Oltre all'ovvia soluzione di stare attenti a ciò che si digita, possiamo prendere alcune contromisure per evitare che questo accada.
