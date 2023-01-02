@@ -13,6 +13,7 @@ wevtutil epl Security C:\Logs\log-security.evtx
 ~~~
 
 oppure alternativa con WMI (da approfondire):
+
 <https://itluke.online/2018/10/31/how-to-backup-export-an-event-log-to-an-evtx-file-with-powershell/>
 
 ## Id evento da controllare nel log Security
@@ -72,7 +73,7 @@ $QueryXML = @'
 Get-WinEvent -FilterXml $QueryXML
 ~~~
 
-## Ottenere gli eventi con Id 4648 delle ultime 6 ore filtrando con query XPath
+## Ottenere gli eventi con Id 4648 delle ultime due ore filtrando con query XPath
 
 ~~~PowerShell
 $XPath = "*[System[(EventID=4648) and TimeCreated[timediff(@SystemTime) <= 7200000]]]"

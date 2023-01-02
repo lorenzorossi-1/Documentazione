@@ -32,5 +32,5 @@ $macAddress = Get-NetNeighbor | Where-Object IPAddress -eq $ip | Select-Object -
 $macVendor = (Invoke-WebRequest -Uri "https://api.macvendors.com/$macAddress").Content
 ~~~
 
-N.B. la seconda istruzione è una mia personale rielaborazione (l'autore suggeriva di usare nmap per ottenere il mac address e il vendor)
-N.B. per ottenere il mac address è possibile anche interrogare il server DHCP in una rete che ne preveda l'uso
+- N.B. la seconda istruzione è una mia personale rielaborazione (l'autore suggeriva di usare nmap per ottenere il mac address e il vendor)
+- N.B. per ottenere il mac address è possibile anche interrogare il server DHCP in una rete che ne preveda l'uso

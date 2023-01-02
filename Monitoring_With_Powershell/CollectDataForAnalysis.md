@@ -26,9 +26,9 @@ Get-WinEvent -FilterHashtable @{ LogName = 'Security'; Id = 4624 } -MaxEvents 3
 
 ## Link interessanti per il cmdlet Get-WinEvent (da approfondire)
 
-<https://4sysops.com/archives/search-the-event-log-with-the-get-winevent-powershell-cmdlet/>
-<https://adamtheautomator.com/get-winevent/>
-<https://www.sans.org/blog/working-with-the-event-log-part-3-accessing-message-elements/>
+- <https://4sysops.com/archives/search-the-event-log-with-the-get-winevent-powershell-cmdlet/>
+- <https://adamtheautomator.com/get-winevent/>
+- <https://www.sans.org/blog/working-with-the-event-log-part-3-accessing-message-elements/>
 
 # Schedulare un task
 
