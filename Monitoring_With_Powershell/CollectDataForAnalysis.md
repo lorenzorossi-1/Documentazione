@@ -30,7 +30,7 @@ Get-WinEvent -FilterHashtable @{ LogName = 'Security'; Id = 4624 } -MaxEvents 3
 - <https://adamtheautomator.com/get-winevent/>
 - <https://www.sans.org/blog/working-with-the-event-log-part-3-accessing-message-elements/>
 
-# Schedulare un task
+## Schedulare un task
 
 ~~~PowerShell
 $action = New-ScheduledTaskAction -Execute 'C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe' -Argument '-File C:\Users\lorenzo\Documents\Script\Get-LocalEvents.ps1'
