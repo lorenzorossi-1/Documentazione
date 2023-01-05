@@ -8,6 +8,8 @@ Documentazione di vari argomenti relativi al campo informatico, scritta prendend
 
 **N.B.** Spesso sono appunti presi in fretta o in forma sintetica calata sulle mie esigenze, quindi potrebbe essere ostica da consultare.
 
+In fondo anche una sezione link con spunti utili per la mia attività.
+
 ## Corsi
 
 - [Analyzing and Decrypting TLS with Wireshark](TLS_Wireshark)
@@ -19,3 +21,9 @@ Documentazione di vari argomenti relativi al campo informatico, scritta prendend
 
 - [Appunti su Wireshark](Wireshark-Appunti)
 - [Appunti su Linux](Linux-Appunti)
+
+## Link
+
+- [Link Cybersecurity](Link/cybersecurity.md)
+- [Link Linux](Link/linux.md)
+- [Link Windows](Link/windows.md)
