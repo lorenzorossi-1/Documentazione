@@ -6,3 +6,4 @@ Link riferiti a documentazione o articoli relativi ai sistemi Linux
 
 - [Top 10 Linux security tutorials for sysadmins from 2022](https://www.redhat.com/sysadmin/top-security-articles-2022) - i migliori 10 articoli relativi alla sicurezza da RedHat
 - [Top 10 networking guides for sysadmin success](https://www.redhat.com/sysadmin/networking-guides-2022) - le migliori 10 guide relative al networking di RedHat
+- [How to troubleshoot DHCP communication problems](https://www.redhat.com/sysadmin/troubleshoot-network-dhcp-configuration) - Fare troubleshooting di DHCP con Nmap, tcpdump e Wireshark
