@@ -11,4 +11,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Windows Triaging with Powershell — Part 1: Parsing Event Logs](https://aditya-pratap9557.medium.com/windows-triaging-with-powershell-part-1-parsing-event-logs-a6748657d150) - prima parte di un articolo sul triaging di un PC Windows con Powershell, evidenza sulla raccolta dei log
 - [Windows Triaging with Powershell — Part 2: Artifacts Collection](https://aditya-pratap9557.medium.com/windows-triaging-with-powershell-part-2-artifacts-collection-d28a8a9010cd) - prima parte di un articolo sul triaging di un PC Windows con Powershell, evidenza sulla raccolta di diversi elementi utili
 - [Nmap Command Examples For Linux Sys/Network Admins](https://www.cyberciti.biz/security/nmap-command-examples-tutorials/) - esempi di utilizzo di Nmap
-[Yara Basics - Getting started with the pattern matching go-to for cyber security](https://www.youtube.com/watch?v=WG7fgEkPPLs) - Fondamenti dell'utilizzo di Yara
+- [Yara Basics - Getting started with the pattern matching go-to for cyber security](https://www.youtube.com/watch?v=WG7fgEkPPLs) - Fondamenti dell'utilizzo di Yara
