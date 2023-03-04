@@ -17,6 +17,7 @@ In fondo anche una sezione link con spunti utili per la mia attività.
 - [Ubuntu Linux Administration: Essential Commands](Ubuntu_Essentials_Commands)
 - [Continuous Monitoring with PowerShell](Monitoring_With_Powershell)
 - [Getting Started with Vagrant](Starting_With_Vagrant)
+- [Practical Python for Beginners](Python_Beginners)
 
 ## Appunti
 
