@@ -11,3 +11,4 @@ Link riferiti a documentazione o articoli relativi ai sistemi Windows
 - [Install, remove, list, and set default printer with PowerShell](https://4sysops.com/archives/install-remove-list-and-set-default-printer-with-powershell/) - Operazioni sulle stampanti tramite PowerShell
 - [Getting Started with PowerShell and the PSWindowsUpdate Module](https://adamtheautomator.com/pswindowsupdate/) - Gestire gli aggiornamenti di Windows Update tramite Powershell
 - [Security-ADMX / AvailableSettings](https://github.com/Harvester57/Security-ADMX/blob/main/AvailableSettingsEN.md) - Impostazioni di un template ADMX che si focalizza sull'hardening di sistemi Windows 10
+- [DNS Logging and Diagnostics](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn800669(v=ws.11)) - Logging server DNS in Windows Server
