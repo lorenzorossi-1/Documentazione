@@ -1,6 +1,6 @@
 # Documentazione
 
-Documentazione di vari argomenti relativi al campo informatico, scritta prendendo come spunto da:
+Documentazione di vari argomenti relativi al campo informatico, scritta prendendo spunto da:
 
 - corsi online 
 - articoli online
@@ -23,6 +23,7 @@ In fondo anche una sezione link con spunti utili per la mia attività.
 
 - [Appunti su Wireshark](Wireshark-Appunti)
 - [Appunti su Linux](Linux-Appunti)
+- [Appunti su Windows](Windows-Appunti)
 
 ## Link
 
