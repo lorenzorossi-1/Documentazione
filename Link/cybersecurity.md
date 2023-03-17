@@ -1,5 +1,6 @@
 # Link Cybersecurity
 
+
 Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 
 ## Elenco
@@ -14,3 +15,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Yara Basics - Getting started with the pattern matching go-to for cyber security](https://www.youtube.com/watch?v=WG7fgEkPPLs) - Fondamenti dell'utilizzo di Yara
 - [VirusTotal API v3 Overview](https://developers.virustotal.com/reference/overview) - Documentazione sull'utilizzo delle API di Virustotal
 - [YouTube - Mossé Cyber Security Institute](https://www.youtube.com/@mosseinstitute/featured) - Canale YouTube del Mossé Cyber Security Institute con diversi video brevi relativi a Cybersecurity e Digital forensics
+- [YouTube - CISA Incident Response Training](https://www.youtube.com/watch?v=3R2zVHuyp74&list=PL-BF3N9rHBLJaSbTRPyWYj56f0m2uDQD7) - Video di training sulle metodologie di Incident Response
