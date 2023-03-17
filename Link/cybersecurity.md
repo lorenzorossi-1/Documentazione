@@ -13,3 +13,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Nmap Command Examples For Linux Sys/Network Admins](https://www.cyberciti.biz/security/nmap-command-examples-tutorials/) - esempi di utilizzo di Nmap
 - [Yara Basics - Getting started with the pattern matching go-to for cyber security](https://www.youtube.com/watch?v=WG7fgEkPPLs) - Fondamenti dell'utilizzo di Yara
 - [VirusTotal API v3 Overview](https://developers.virustotal.com/reference/overview) - Documentazione sull'utilizzo delle API di Virustotal
+- [YouTube - Mossé Cyber Security Institute](https://www.youtube.com/@mosseinstitute/featured) - Canale YouTube del Mossé Cyber Security Institute con diversi video brevi relativi a Cybersecurity e Digital forensics
