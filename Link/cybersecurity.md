@@ -16,3 +16,5 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [YouTube - Mossé Cyber Security Institute](https://www.youtube.com/@mosseinstitute/featured) - Canale YouTube del Mossé Cyber Security Institute con diversi video brevi relativi a Cybersecurity e Digital forensics
 - [YouTube - CISA Incident Response Training](https://www.youtube.com/watch?v=3R2zVHuyp74&list=PL-BF3N9rHBLJaSbTRPyWYj56f0m2uDQD7) - Video di training sulle metodologie di Incident Response
 - [YouTube - SANS Institute](https://www.youtube.com/@SANSInstitute) - Canale YouTube di SANS Institute
+- [YouTube - SANS Digital Forensics and Incident Response](https://www.youtube.com/@SANSForensics) - Canale YouTube di SANS Institute relativo a Digital Forensics and Incident Response
+- [YouTube - SANS Cyber Defense](https://www.youtube.com/@SANSCyberDefense) - Canale YouTube di SANS Institute relativo alla Cyber Defense
