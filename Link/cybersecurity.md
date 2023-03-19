@@ -18,3 +18,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [YouTube - SANS Institute](https://www.youtube.com/@SANSInstitute) - Canale YouTube di SANS Institute
 - [YouTube - SANS Digital Forensics and Incident Response](https://www.youtube.com/@SANSForensics) - Canale YouTube di SANS Institute relativo a Digital Forensics and Incident Response
 - [YouTube - SANS Cyber Defense](https://www.youtube.com/@SANSCyberDefense) - Canale YouTube di SANS Institute relativo alla Cyber Defense
+- [Threat Hunting via Sysmon](https://www.youtube.com/watch?v=7dEfKn70HCI) - Threat Hunting con Microsoft Sysmon
