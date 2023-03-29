@@ -5,3 +5,4 @@ Appunti in aggiornamento relativi a diverse tematiche inerenti il mondo Windows,
 ## Argomenti
 
 - [Sysinternals Autoruns e Powershell](AutorunsPowershell.md)
+- [Uso dei protocolli di discovery con Powershell](PSDiscoveryProtocol.md)
