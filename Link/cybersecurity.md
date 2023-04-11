@@ -20,3 +20,6 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [YouTube - SANS Cyber Defense](https://www.youtube.com/@SANSCyberDefense) - Canale YouTube di SANS Institute relativo alla Cyber Defense
 - [Threat Hunting via Sysmon](https://www.youtube.com/watch?v=7dEfKn70HCI) - Threat Hunting con Microsoft Sysmon
 - [YouTube - Podcast CyberSecurity e CyberCrime](https://www.youtube.com/playlist?list=PLLGeHvfkwlmng8mQ5QM1lTvpDraLKS3BI) - Podcast in italiano sulle tematiche relative alla cybersecurity spiegate in modo semplice
+- [Full Packet Capturing with TShark for Continuous Monitoring](https://www.youtube.com/watch?v=ikhKUylOJCw) - Continous monitoring tramite thsark, con focalizzazione su threat intelligence
+- [PowerShell 2020: State of the Art / Hack / Infection](https://www.youtube.com/watch?v=v5jxq-EZfQI) - PowerShell: usi e abusi nell'ambito della cybersecurity
+- [Threat Hunting for Suspicious Schedule Task](https://hackforlab.com/threat-hunting-for-suspicious-schedule-task/) - Threat hunting riferito a operazioni pianificate sospette
