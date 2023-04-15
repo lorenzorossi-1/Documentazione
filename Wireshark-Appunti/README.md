@@ -6,3 +6,4 @@ Appunti in aggiornamento relativi a diverse tematiche su Wireshark e i suoi stru
 
 - [Filtri per analisi TLS](WiresharkTLSFilters.md)
 - [Filtri per analisi broadcast / multicast](WiresharkBMcastFilters.md)
+- [Analisi del traffico di rete con Tshark e Powershell](TsharkPowershell.md)
