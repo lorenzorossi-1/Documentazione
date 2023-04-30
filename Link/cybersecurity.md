@@ -23,3 +23,6 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Full Packet Capturing with TShark for Continuous Monitoring](https://www.youtube.com/watch?v=ikhKUylOJCw) - Continous monitoring tramite thsark, con focalizzazione su threat intelligence
 - [PowerShell 2020: State of the Art / Hack / Infection](https://www.youtube.com/watch?v=v5jxq-EZfQI) - PowerShell: usi e abusi nell'ambito della cybersecurity
 - [Threat Hunting for Suspicious Schedule Task](https://hackforlab.com/threat-hunting-for-suspicious-schedule-task/) - Threat hunting riferito a operazioni pianificate sospette
+- [SOC Automation with PowerShell Interactive Notebooks](https://www.youtube.com/watch?v=NLyLVb_ZoQE) - SOC Automation with PowerShell Interactive Notebooks
+- [Hunting & Detecting SMB Named Pipe Pivoting (Lateral Movement)](https://bherunda.medium.com/hunting-detecting-smb-named-pipe-pivoting-lateral-movement-b4382bd1df4) - Rilevare movimenti laterali tramite l'uso di named pipe
+- [Powershell Logging](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.3) - Powershell Logging
