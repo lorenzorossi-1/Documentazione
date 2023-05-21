@@ -15,3 +15,5 @@ Link riferiti a documentazione o articoli relativi ai sistemi Windows
 - [PowerShell 2022: State of the Art / Hack / Infection](https://www.youtube.com/watch?v=hDbqXWGifls) - PowerShell: usi e abusi nell'ambito della cybersecurity
 - [Parsing Text](https://powershell.one/tricks/parsing/text) - Fare il parsing di testo in Powershell, in modo da poterlo convertire in oggetto
 - [Powershell Logging](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.3) - Powershell Logging
+- [Sysmon For Beginners](https://www.youtube.com/watch?v=7P_XzFUwQxw) - Video in cui viene descritto l'utilizzo di Sysmon
+- [Windows LAPS](https://www.scip.ch/en/?labs.20230518) - Rivisitazione del vecchio LAPS (Legacy LAPS) che prende il nome di Windows LAPS
