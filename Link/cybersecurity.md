@@ -27,3 +27,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Hunting & Detecting SMB Named Pipe Pivoting (Lateral Movement)](https://bherunda.medium.com/hunting-detecting-smb-named-pipe-pivoting-lateral-movement-b4382bd1df4) - Rilevare movimenti laterali tramite l'uso di named pipe
 - [Powershell Logging](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.3) - Powershell Logging
 - [Sysmon For Beginners](https://www.youtube.com/watch?v=7P_XzFUwQxw) - Video in cui viene descritto l'utilizzo di Sysmon
+- [Guide to port scanning using Nmap](https://hacklido.com/blog/464-the-ultimate-guide-to-port-scanning-using-nmap-nmap-notes) - Guida alla scansione con Nmap
