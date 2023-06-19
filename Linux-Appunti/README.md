@@ -5,3 +5,4 @@ Appunti in aggiornamento relativi a tematiche riguardanti Linux (in maggior part
 ## Argomenti
 
 - [Considerazioni sull'eliminazione di file in Linux](Linux_Delete_Files.md)
+- [Basi sull'utilizzo di netcat](netcat.md)
