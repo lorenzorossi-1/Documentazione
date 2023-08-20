@@ -9,3 +9,4 @@ Link riferiti a documentazione o articoli relativi ai sistemi Linux
 - [How to troubleshoot DHCP communication problems](https://www.redhat.com/sysadmin/troubleshoot-network-dhcp-configuration) - Fare troubleshooting di DHCP con Nmap, tcpdump e Wireshark
 - [Nmap Command Examples For Linux Sys/Network Admins](https://www.cyberciti.biz/security/nmap-command-examples-tutorials/) - esempi di utilizzo di Nmap
 - [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Lab interattivi messi a disposizione da Red Hat
+- [IP Command Cheat SHeet](https://twitter.com/hackinarticles/status/1690302322453188608?s=20) - Reference del comando ip

@@ -10,3 +10,4 @@ Link riferiti a documentazione o articoli relativi al networking
 - [Wireshark Workshop Videos](https://unit42.paloaltonetworks.com/wireshark-workshop-videos/) - Video e tutorial sull'utilizzo di Wireshark in ambito networking e cybersecurity
 - [Wireshark RDP Resources](https://github.com/awakecoding/wireshark-rdp) - Decriptare traffico RDP con Wireshark
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) - Playlist YouTube con diversi corsi brevi sui fondamenti di networking
+- [TCP - 12 simple ideas to explain the Transmission Control Protocol](https://youtu.be/JFch3ctY6nE) - 12 casi d'uso in TCP

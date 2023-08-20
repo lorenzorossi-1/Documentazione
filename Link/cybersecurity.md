@@ -28,3 +28,7 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Powershell Logging](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.3) - Powershell Logging
 - [Sysmon For Beginners](https://www.youtube.com/watch?v=7P_XzFUwQxw) - Video in cui viene descritto l'utilizzo di Sysmon
 - [Guide to port scanning using Nmap](https://hacklido.com/blog/464-the-ultimate-guide-to-port-scanning-using-nmap-nmap-notes) - Guida alla scansione con Nmap
+- [29 Sandboxes for checking Files and URLs](https://twitter.com/hetmehtaa/status/1672582146467459072) - Elenco di 29 sandbox in cui esaminare file o URL sospetti
+- [Awesome CyberChef Recipes](https://github.com/gmh5225/awesome-cyberchef-recipes) - Repository Github con diverse ricette per CyberChef
+- [Hunting for Suspicious HTTPS and TLS Connections](https://youtu.be/RqVwk97uuIQ) - Caccia alle connessioni C2 tramite connessioni HTTPS e TLS (e non solo)
+- [Cybersecurity Detection Lab: Minimal Security Onion Setup for PCAP Analysis | IMPORT NODE](https://youtu.be/mgdbJApNfuQ) - Setup minimale di Security Onion per analisi file pcap
