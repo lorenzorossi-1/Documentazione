@@ -32,3 +32,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Awesome CyberChef Recipes](https://github.com/gmh5225/awesome-cyberchef-recipes) - Repository Github con diverse ricette per CyberChef
 - [Hunting for Suspicious HTTPS and TLS Connections](https://youtu.be/RqVwk97uuIQ) - Caccia alle connessioni C2 tramite connessioni HTTPS e TLS (e non solo)
 - [Cybersecurity Detection Lab: Minimal Security Onion Setup for PCAP Analysis | IMPORT NODE](https://youtu.be/mgdbJApNfuQ) - Setup minimale di Security Onion per analisi file pcap
+- [Platforms where you can begin cybersecurity](https://twitter.com/danielmakelley/status/1693268390423482765) - Tweet in cui sono elencate diverse piattaforme dove apprendere nozioni di cybersecurity
