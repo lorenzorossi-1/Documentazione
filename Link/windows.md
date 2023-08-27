@@ -17,3 +17,4 @@ Link riferiti a documentazione o articoli relativi ai sistemi Windows
 - [Powershell Logging](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.3) - Powershell Logging
 - [Sysmon For Beginners](https://www.youtube.com/watch?v=7P_XzFUwQxw) - Video in cui viene descritto l'utilizzo di Sysmon
 - [Windows LAPS](https://www.scip.ch/en/?labs.20230518) - Rivisitazione del vecchio LAPS (Legacy LAPS) che prende il nome di Windows LAPS
+- [EventLog Analysis](https://amr-git-dot.github.io/forensic%20investigation/EventLog_Analysis/) - Analisi del log eventi di Windows, con attenzione alle istruzioni Powershell usate

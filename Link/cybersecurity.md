@@ -33,3 +33,5 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Hunting for Suspicious HTTPS and TLS Connections](https://youtu.be/RqVwk97uuIQ) - Caccia alle connessioni C2 tramite connessioni HTTPS e TLS (e non solo)
 - [Cybersecurity Detection Lab: Minimal Security Onion Setup for PCAP Analysis | IMPORT NODE](https://youtu.be/mgdbJApNfuQ) - Setup minimale di Security Onion per analisi file pcap
 - [Platforms where you can begin cybersecurity](https://twitter.com/danielmakelley/status/1693268390423482765) - Tweet in cui sono elencate diverse piattaforme dove apprendere nozioni di cybersecurity
+- [How to setup wazuh as your SIEM](https://maikroservice.com/how-to-setup-wazuh-as-your-siem-with-debian-proxmox) - Installazione di un SIEM "casalingo" con Wazuh
+- [ICMP: A world beyond ping](https://youtu.be/_Mw-kqbTt1k) - Protocollo ICMP e implicazioni di cybersecurity
