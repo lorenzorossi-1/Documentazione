@@ -35,3 +35,6 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Platforms where you can begin cybersecurity](https://twitter.com/danielmakelley/status/1693268390423482765) - Tweet in cui sono elencate diverse piattaforme dove apprendere nozioni di cybersecurity
 - [How to setup wazuh as your SIEM](https://maikroservice.com/how-to-setup-wazuh-as-your-siem-with-debian-proxmox) - Installazione di un SIEM "casalingo" con Wazuh
 - [ICMP: A world beyond ping](https://youtu.be/_Mw-kqbTt1k) - Protocollo ICMP e implicazioni di cybersecurity
+- [13Cubed - DFIR](https://www.youtube.com/@13Cubed) - Canale YouTube con diversi video interessanti in ambito DFIR
+- [Introduction to MFTECmd](https://youtu.be/_qElVZJqlGY) - Digital Forensics: introduzione all'uso di MFTECmd, dove a me interessa anche l'uso di Kape per l'estrazione dei file necessari all'analisi forense di un file system NTFS
+- [13Cubed - Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8&list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve&index=1) - Serie di video YouTube di introduzione all'analisi forense in Windows
