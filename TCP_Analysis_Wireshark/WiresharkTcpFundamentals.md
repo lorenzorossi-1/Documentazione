@@ -1,0 +1,19 @@
+# TCP Analysis with Wireshark
+
+## Navigating Wireshark and TCP/IP Fundamentals
+
+- Lo scopo dell'utilizzo di TCP è di stabilire una comunicazione affidabile tra due host
+- TCP inizia e chiude una connessione, così come avviene ad esempio per una chiamata telefonica
+- TCP si assicura che i pacchetti vengano ricevuti dall'altra parte, e nell'ordine corretto
+- Gestisce eventuali colli di bottiglia e rallentamenti di rete
+- Gestisce le perdite di pacchetti tramite la ritrasmissione e la gestione degli errori
+- Consente più connessioni sullo stesso dispositivo (tramite le porte, che dirigono il traffico verso le corrette applicazioni)
+- Una connessione TCP è definita 4-tuple, cioé la combinazione tra indirizzo (IP) sorgente, porta sorgente, indirizzo destinazione, porta destinazione
+- Se uno qualsiasi dei 4 valori di una connessione TCP cambia, significa che siamo in presenza di una nuova connessione
+- L'handshake TCP, definito anche 3-way handshake, è il processo tramite cui viene stabilita una connessione TCP tra due host, che prendono il nome di client e server
+- L'handshake TCP garantisce che entrambi gli host possano trasmettere dati e si accordino sul primo sequence number
+- L'handshake TCP comincia con la trasmissione di un pacchetto SYN del client, simile alla composizione di un numero per iniziare una chiamata telefonica; quindi il server risponde con un pacchetto SYN-ACK, in cui con l'ACK il server manda la conferma della ricezione del pacchetto SYN del client, e contestualmente invia il proprio SYN verso il client, così come avviene nella risposta a una chiamata telefonica, in cui si dice "sì, chi è?"; infine vi è l'ACK dek client in cui quest'ultimo conferma di aver ricevuto il SYN del server, allo stesso modo in cui, rimanendo all'esempio della chiamata telefonica, si risponde "ciao sono Mario Rossi"; dopo questo processo può cominciare la trasmissione dei dati vera e propria
+- Nel primo SYN dell'handshake (flag SYN = 1), il client invia il proprio "initial sequence number", ovvero il primo numero della sequenza di pacchetti che il client manderà al server, numero cruciale per stabilire il corretto ordine dei pacchetti nella comunicazione tra client e server; nella risposta SYN-ACK del server (flag SYN = 1 e ACK = 1) anche quest'ultimo invia il proprio "initial sequence number" al client; infine il client risponde con un ACK (flag ACK = 1) al server, in tal modo i due host si sono accordati reciprocamente sui propri "initial sequence number" e possono iniziare la comunicazione
+- Altre informazioni fondamentali scambiate durante il 3-way handshake (e solo in questa fase, per cui è importante catturare questa fase con Wireshark) sono le "options" (opzioni) quali: "Maximum Segment Size" (lunghezza massima del pacchetto), Windows Scaling (moltiplicatore usato per determinare l'ampiezza della "window"), SACK (selective acknowledge, indica quali pacchetti sono stati ricevuti quando si verifica una perdita di pacchetti), iRTT (initial Round Trip Time, il tempo trascorso tra il SYN inviato dal client e l'ACK ricevuto dal server, tempo che indica la latenza della comunicazione su cui l'algoritmo di trasmissione si regolerà durante la connessione)
+- Ogni pacchetto è identificato con determinati "flag" che indicano i diversi stati della connessione; oltre ai flag SYN, SYN-ACK, ACK, un altro flag importante è il flag FIN, che indica quando uno dei due host vuole chiudere la connessione
+- In questa fase prendere in esame una cattura del traffico di rete con Wireshark, in cui esaminare il 3-way handshake con l'identificazione dei vari flag, opzioni e iRTT, inoltre fare la stessa cosa con una connessione VPN in modo da vedere le differenze in termini di Maximum Segment Size; vedere anche in breve la personalizzazione dell'interfaccia di Wireshark con i profili, regole di colorazione, aggiunta di colonne, display filters e relativa aggiunta di pulsanti
