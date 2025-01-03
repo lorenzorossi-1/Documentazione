@@ -12,3 +12,4 @@ Link riferiti a documentazione o articoli relativi al networking
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) - Playlist YouTube con diversi corsi brevi sui fondamenti di networking
 - [TCP - 12 simple ideas to explain the Transmission Control Protocol](https://youtu.be/JFch3ctY6nE) - 12 casi d'uso in TCP
 - [ICMP: A world beyond ping](https://youtu.be/_Mw-kqbTt1k) - Protocollo ICMP e implicazioni di cybersecurity
+- [TechsavvyProductions](https://www.youtube.com/@TechsavvyProductions) - Canale YouTube con argomenti avanzati relativi a Windows e Networking
