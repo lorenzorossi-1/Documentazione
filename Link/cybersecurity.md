@@ -47,3 +47,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Monitoring PowerShell usage](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-power-of-data-collection-rules-monitoring-powershell-usage/ba-p/4236527) - Monitorare l'uso di Powershell tramite logging e altre azioni
 - [Detecting and mitigating Active Directory compromises](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/detecting-and-mitigating-active-directory-compromises) - Individuazione e mitigazioni di installazioni Active Directory compromesse
 - [Threat Hunting with Sysmon](https://app.letsdefend.io/training/lessons/threat-hunting-with-sysmon) - Corso su threat hunting con Sysmon
+- [Public APIs](https://github.com/public-apis/public-apis) - Lista di API pubbliche, c'è un settore dedicato alla cybersecurity
