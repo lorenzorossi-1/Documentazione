@@ -34,3 +34,4 @@ In fondo anche una sezione link con spunti utili per la mia attività.
 - [Link Linux](Link/linux.md)
 - [Link Windows](Link/windows.md)
 - [Link Networking](Link/networking.md)
+- [Link AI](Link/ai.md)
