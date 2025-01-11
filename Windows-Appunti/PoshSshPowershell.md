@@ -127,7 +127,7 @@ Ma in caso volessimo copiare più file, o tutti i file all'interno di una cartel
 Con la copia di file tramite SFTP, a differenza di SCP torniamo al concetto di sessioni, pertanto prima di procedere a una qualunque copia procediamo a creare una sessione e a memorizzarla in una variabile, in modo da renderla riutilizzabile senza dover conoscere l'ID:
 
 ~~~powershell
-$sessioneSFTP = New-SFTPSession -ComputerName 172.31.1.254 -Credential $credSSH -AcceptKey
+$sessioneSFTP = New-SFTPSession -ComputerName 192.168.1.15 -Credential $credSSH -AcceptKey
 Get-SFTPItem -SFTPSession $sessioneSFTP -Path '/home/utente/prova' -Destination .
 ~~~
 
