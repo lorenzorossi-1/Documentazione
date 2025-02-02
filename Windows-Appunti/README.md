@@ -8,3 +8,4 @@ Appunti in aggiornamento relativi a diverse tematiche inerenti il mondo Windows,
 - [Uso dei protocolli di discovery con Powershell](PSDiscoveryProtocol.md)
 - [Analisi del traffico di rete con Tshark e Powershell](../Wireshark-Appunti/TsharkPowershell.md)
 - [SSH, SCP e SFTP con Posh-SSH in Powershell](PoshSshPowershell.md)
+- [Log DNS server e parsing del log con Powershell](DnsLogPowershell.md)
