@@ -6,3 +6,4 @@ Appunti in aggiornamento relativi a tematiche riguardanti Linux (in maggior part
 
 - [Considerazioni sull'eliminazione di file in Linux](Linux_Delete_Files.md)
 - [Basi sull'utilizzo di netcat](netcat.md)
+- [Sincronizzazione di directory con rsync e SSH](rsync_ssh.md)
