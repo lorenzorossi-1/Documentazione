@@ -48,3 +48,4 @@ Link riferiti a documentazione o articoli relativi alla sicurezza informatica
 - [Detecting and mitigating Active Directory compromises](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/detecting-and-mitigating-active-directory-compromises) - Individuazione e mitigazioni di installazioni Active Directory compromesse
 - [Threat Hunting with Sysmon](https://app.letsdefend.io/training/lessons/threat-hunting-with-sysmon) - Corso su threat hunting con Sysmon
 - [Public APIs](https://github.com/public-apis/public-apis) - Lista di API pubbliche, c'è un settore dedicato alla cybersecurity
+- [The Big List of Cybersecurity Resources](https://www.reddit.com/r/cybersecurity/comments/1irf26m/the_big_list_of_cybersecurity_resources_news_info/?rdt=43578) - Lista di risorse inerenti la cybersecurity
